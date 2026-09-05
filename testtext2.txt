@@ -1,0 +1,9 @@
+Hello! Welcome to testtext2.
+
+This file is for testing purposes.
+
+This will be used for other python file reads.
+
+There's some extra information in this one. Such as this extra text that you are reading right now.
+
+That is it! Thanks for reading, I guess.
